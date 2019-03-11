@@ -15,6 +15,9 @@ public class rellenaarrays {
 		return array10;
 		
 	}
+	public static void nuevometodo1() {
+		System.out.println("hola esto es una prueba para rama1");
+	}
 
 	public static void nuevometodo2() {
 		System.out.println("hola esto es una prueba para rama2");
